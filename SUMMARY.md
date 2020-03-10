@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
+* [Commencer](getting-started.md)
 * [GF Button](gf-button/README.md)
   * [GF Flutter Standard Button](gf-button/standard-button.md)
   * [Pills Button](gf-button/pills-button.md)

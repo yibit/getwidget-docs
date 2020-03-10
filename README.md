@@ -11,19 +11,19 @@ description: >-
 
 ## Comment démarrer Flutter?
 
-We are a huge follower of Flutter and using it from very early stage even since it was released in alpha stage at 2017. We used it in various Flutter apps including  some of enterprise SAAS applications. 
+Nous sommes un grand adepte de Flutter et nous l'utilisons depuis le tout début même depuis sa sortie en phase alpha en 2017. Nous l'avons utilisé dans diverses applications Flutter, y compris certaines applications SAAS d'entreprise.
 
-Flutter almost has all the widget available that developer can use in project but again, we used to develop lots of project with flutter and hence decided why not we develop all the possible widget that can be reused in any project and speed up the app development. 
+Flutter a presque tous les widgets disponibles que le développeur peut utiliser dans le projet mais encore une fois, nous avons l'habitude de développer de nombreux projets avec flutter et avons donc décidé pourquoi nous ne développons pas tous les widgets possibles qui peuvent être réutilisés dans n'importe quel projet et accélérer le développement de l'application.
 
-We are launching our Beta Release in the beginning  to develop, to test the library component. Kindly give us your feedback to improve and add more widgets to our library. 
+Nous lançons notre version bêta au début pour développer, pour tester le composant de la bibliothèque. Veuillez nous faire part de vos commentaires pour améliorer et ajouter plus de widgets à notre bibliothèque.
 
 ## Get Flutter Roadmap 
 
-We are committed to continue this library development to make flutter app design & development less time consuming and with small learning curve too.
+Nous nous engageons à poursuivre le développement de cette bibliothèque pour rendre la conception et le développement d'applications Flutter moins longues et avec une petite courbe d'apprentissage.
 
-We will really appreciate if you could check our Roadmap and do Vote & share your Feedback on upcoming widgets and New features:   [https://roadmap.getflutter.dev/](https://roadmap.getflutter.dev/)
+Nous apprécierons vraiment si vous pouviez consulter notre feuille de route et voter et partager vos commentaires sur les widgets à venir et les nouvelles fonctionnalités:   [https://roadmap.getflutter.dev/](https://roadmap.getflutter.dev/)
 
-Your support and feedback helps us to build the best Flutter Open-Source product. 
+Votre soutien et vos commentaires nous aident à créer le meilleur produit Flutter Open-Source.
 
 
 
