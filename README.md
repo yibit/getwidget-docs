@@ -1,14 +1,15 @@
 ---
 description: >-
-  Get Flutter is one of the largest Flutter open-source UI library for mobile or
-  web apps. It has more than 1000+ pre-built reusable widgets.
+  Get Flutter est l'une des plus grandes bibliothèques d'interface utilisateur
+  open source Flutter pour les applications mobiles ou Web. Il a plus de 1000+
+  widgets réutilisables pré-construits.
 ---
 
 # Introduction
 
 ![Get Flutter Open Source UI library](https://ik.imagekit.io/ionicfirebaseapp/docs/tr:dpr-auto,tr:w-auto-1300/github-settings_2_6MxhZpdf5.png)
 
-## How Get Flutter Started ?
+## Comment démarrer Flutter?
 
 We are a huge follower of Flutter and using it from very early stage even since it was released in alpha stage at 2017. We used it in various Flutter apps including  some of enterprise SAAS applications. 
 
