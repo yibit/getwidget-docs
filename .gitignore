@@ -1,3 +1,5 @@
 /dist
 /node_modules/
-package-lock.json
+/package-lock.json
+/workers-site/node_modules/
+/workers-site/package-lock.json
